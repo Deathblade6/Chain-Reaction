@@ -2,4 +2,4 @@
 
 A computer version of the famous mobile game - Chain Reaction 
 
-Powered by C
+Powered by C# and Unity
